@@ -4,4 +4,4 @@
 
 | Modelo | Miniatura |
 |--------|-------------|
-| [Fractal](<fractal (ejemplo)/fractal.md>) | <a href="fractal (ejemplo)/image.png"><img src="fractal (ejemplo)/image.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
+| [Fractal](<fractal (ejemplo)/fractal.md>) | <img src="fractal (ejemplo)/image.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
