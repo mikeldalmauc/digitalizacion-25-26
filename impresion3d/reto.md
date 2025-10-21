@@ -1,4 +1,12 @@
-# Reto 1 — Impresión 3D: Guías y Exposición de Tipologías
+- [Reto 1 Impresión 3D: Guías y Exposición de Tipologías](#reto-1-impresión-3d-guías-y-exposición-de-tipologías)
+  - [1) Problema (real) y propósito](#1-problema-real-y-propósito)
+  - [2) Reglas de impresión (para todos los equipos)](#2-reglas-de-impresión-para-todos-los-equipos)
+  - [3) Tipologías (asignación sin solape entre equipos)](#3-tipologías-asignación-sin-solape-entre-equipos)
+  - [6) Entregables (estructura de repositorio)](#6-entregables-estructura-de-repositorio)
+  - [Checklist rápido (para corrección)](#checklist-rápido-para-corrección)
+
+
+# Reto 1 Impresión 3D: Guías y Exposición de Tipologías
 
 **Duración:** 3 semanas · **2 h/semana**  
 **Contexto:** 1 sola impresora 3D en el aula (aula activa, clases en marcha).  
