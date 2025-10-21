@@ -1,9 +1,9 @@
 # Flor De Loto
 
-
-
-
 <img src="Captura de pantalla 2025-10-14 085952.png" alt="Descripción de la imagen" width="200" height="200">
+
+---
+[]()
 
 ## ¿Qué es la *flor de loto*?
 Este es un modelo de una *flor de loto*, una flor que crece en los nenúfares y se considera sagrado en distintas religiones.<br> 
