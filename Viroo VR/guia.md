@@ -1,6 +1,6 @@
 # Guía sala de realidad virtual
 
-1. Reunión con Maria Madarieta
+1. Reunión con Maria Madarieta :white_check_mark:
 2. Gestión de permisos, aplicaciones y creación de usuarios en VirooCloud :white_check_mark:
 3. Instalación de Unity, versión para desarrollar para Viroo :white_check_mark:
 4. Instalar proyecto de muestra
