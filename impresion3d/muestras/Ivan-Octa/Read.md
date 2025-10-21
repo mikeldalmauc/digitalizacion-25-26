@@ -25,3 +25,5 @@ Posibles problemas a la hora:
 ·La maquina tiene ciertos problemas que hacen necesario el estar pendientes a el
 
 ·La figura tiene unas propiedades que hace imposible el poder imprimirlo a la perfeccion es decir que no queda al completo. Pero mas que nada es por que el modelo viene asi del creador.
+
+Equipo Octa-Ivan
