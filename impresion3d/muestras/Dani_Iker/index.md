@@ -2,6 +2,7 @@
 <img src="image (1).png">
 
 **Enlace al archivo .upf:** [Shinji.upf](Shinji.ufp)
+
 **Enlace al archivo .stl:** [Shinji.stl](Shinji_Ikari_Crying_on_a_Chair.stl)
 
 **Dimensiones:**
