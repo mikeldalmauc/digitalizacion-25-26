@@ -1,12 +1,20 @@
 # Pizza Boy (Jonathan, Unax)
 ## Table of contents
-- [Por que hemos elegido pizza boy](#por-que-hemos-elegido-pizza-boy)
-  - [Boceto del modelo](#modelo)
-  - [Caracteristicas](#altura-de-capa)
+- [Pizza Boy (Jonathan, Unax)](#pizza-boy-jonathan-unax)
+  - [Table of contents](#table-of-contents)
+      - [Por que hemos elegido Pizza boy](#por-que-hemos-elegido-pizza-boy)
+        - [Modelo](#modelo)
+        - [Quality](#quality)
+        - [Walls](#walls)
+        - [Support](#support)
+          - [Adapative layers: ON](#adapative-layers-on)
+      - [Caracteristicas](#caracteristicas)
+
+
 #### Por que hemos elegido Pizza boy
 Hemos elegido este modelo de impresion ya que supone un reto suficientemente desafiante para imprimir. Tiene muchas angulos de inclinacion en partes como en sus retrovisores donde seria ideal usar funciones como soportes, capas adaptativas, etc. Lo que nos ayudaria como principiantes a entender correctamente todas estas funciones.
 ##### Modelo
-![alt text](../../images/1c53778bfa1112cf0ce5bcbf58682ca8.png)
+![alt text](images/1c53778bfa1112cf0ce5bcbf58682ca8.png)
 ##### Quality
 layer height: 0.15mm
 
@@ -28,7 +36,7 @@ Usamos **0.15mm** de **quality (layer height)**, el cual es un buen intermedio e
 Hemos añadido <b>adaptative layers</b>, para obtener un mejor acabado en zonas con inclinacion las cuales abundan en nuestra impresion.
 
 Hemos añadido <b>soportes</b> porque sino partes como el retrovisor el cual tiene un tamaño muy pequeño podrian caer, entonces hemos visto adecuado usar esta ayuda.
-![alt text](../../images/imagen.png)
+![alt text](images/imagen.png)
 
 - [El archivo STL](Pizzaboy_JonathanUnax.stl)
 - [EL archivo UFP](Motillo_JonathanUnax.ufpi)
