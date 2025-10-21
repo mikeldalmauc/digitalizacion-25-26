@@ -1,5 +1,6 @@
 # Moai
 
+![Moai](image.png)
 
 Hemos elegido hacer una figura de un "Moai", usaremos "Fuzzy Skin" para darle la textura irregular como si fuera de piedra.
 
@@ -26,4 +27,4 @@ Posibles problemas a la hora:
 
 ·La figura tiene unas propiedades que hace imposible el poder imprimirlo a la perfeccion es decir que no queda al completo. Pero mas que nada es por que el modelo viene asi del creador.
 
-Equipo Octa-Ivan
+Equipo Octa-Ivan.
