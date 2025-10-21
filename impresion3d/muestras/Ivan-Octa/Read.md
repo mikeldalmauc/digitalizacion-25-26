@@ -17,4 +17,11 @@ Peso : 5g
 Tiempo de impresion: 20 min
 ------------------------------------------------------------
 - Link del modelo 3D.
-https://www.thingiverse.com/thing:149271
+[El link](https://www.thingiverse.com/thing:149271)
+
+------------------------------------------------------
+Posibles problemas a la hora:
+
+·La maquina tiene ciertos problemas que hacen necesario el estar pendientes a el
+
+·La figura tiene unas propiedades que hace imposible el poder imprimirlo a la perfeccion es decir que no queda al completo. Pero mas que nada es por que el modelo viene asi del creador.
