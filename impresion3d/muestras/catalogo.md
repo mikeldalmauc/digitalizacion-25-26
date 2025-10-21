@@ -7,7 +7,7 @@
 | [Aston Martin Giltzarria](<benat/Aston_Martin.pdf>) | <img src="benat/AstonMartin.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Flor de loto](<Gaizka_David_FlorDeLoto/FlorDeLoto.md>) | <img src="Gaizka_David_FlorDeLoto/flordeloto.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Pez articulado](<Aitor_Mikel/Digi 25-26 3D.md>) | <img src="Aitor_Mikel/muestra.jpg" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
-| [Pez articulado](<cadena/cadena.md>) | <img src="cadena/cadena_1.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
+| [Cadena malla](<cadena/cadena.md>) | <img src="cadena/cadena_1.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Suzuki](<Fernando_Yassine/Suzuki PV50 kitcard.md>) | <img src="Fernando_Yassine/imagenes/front.jpg" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Aguijon](<HK-Daymer/Hollow Knigth Print 3D.md>) | <img src="HK-Daymer/Hollow Knight Print 3D.png" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
 | [Martillo de Thor](<Martillo_Urtzi_Jon/Martillo.md>) | <img src="Martillo_Urtzi_Jon/Mjolnir1.jpg" alt="Fractal (ejemplo)" width="120" style="max-width:120px;height:auto;"></a> |
