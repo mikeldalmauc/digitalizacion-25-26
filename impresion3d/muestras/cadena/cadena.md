@@ -1,6 +1,6 @@
 # Cadena (10 eslabones)
 
-##Explicación del proyecto
+## Explicación del proyecto
 
 ![alt text](cadena_1.png)
 
