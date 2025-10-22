@@ -19,7 +19,7 @@ Eredua, aldaketa batzuk izan ditu eredu originalatik, lotura indartsuagoak eduki
 
 - *Tipologia:* Sare/Flex  
 - *Eredua:* 3D lizarra 
-- *Materiala:* ?  
+- *Materiala:* PLA 
 - *Diseinu-iturburua:* Thingiverse / Printables eredua  
 - *Tamaina:* 172.5 × 178.7 × 30.1 mm  
 - *Pisu estimatua:* 90g 
@@ -40,7 +40,7 @@ Eredua, aldaketa batzuk izan ditu eredu originalatik, lotura indartsuagoak eduki
 
 ## 4. Ondorioak
 Pieza honek erakusten du 3D inprimagailuaren gaitasuna forma irregularrak eta kurbadurak sortzeko, *malgutasuna eta xehetasuna uztartuz*.  
-Gainera, *geruza-orientazioaren eta soporteen kudeaketaren garrantzia* nabarmen geratu da.
+
 
 ---
 
