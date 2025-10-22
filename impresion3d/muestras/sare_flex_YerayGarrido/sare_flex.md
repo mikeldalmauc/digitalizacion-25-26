@@ -1,7 +1,6 @@
 # Erakusketa-lagina: *Lizarra 3D (Sare/Flex tipologia)*
 
-## Azpititulua
-Egiturazko malgutasuna eta xehetasun handiko formak erakusteko eredua.
+## Egiturazko malgutasuna eta xehetasun handiko formak erakusteko eredua.
 
 ![lizarra](lagarto_3d.jpg)
 
@@ -14,12 +13,11 @@ Helburua izan da egitura malguak eta xehetasun geometriko ugari dituen pieza bat
 
 ## 2. Pieza eta Diseinua
 Aukeratutako eredua *sare edo flex* motako figura bat da, animalia formako gorputz konplexuarekin.  
-
 Eredua, aldaketa batzuk izan ditu eredu originalatik, lotura indartsuagoak edukitzeko.
 
 - *Tipologia:* Sare/Flex  
 - *Eredua:* 3D lizarra 
-- *Materiala:* PLA 
+- *Materiala:* PLA
 - *Diseinu-iturburua:* Thingiverse / Printables eredua  
 - *Tamaina:* 172.5 × 178.7 × 30.1 mm  
 - *Pisu estimatua:* 90g 
@@ -37,14 +35,7 @@ Eredua, aldaketa batzuk izan ditu eredu originalatik, lotura indartsuagoak eduki
 
 ---
 
-
-## 4. Ondorioak
-Pieza honek erakusten du 3D inprimagailuaren gaitasuna forma irregularrak eta kurbadurak sortzeko, *malgutasuna eta xehetasuna uztartuz*.  
-
-
----
-
-## 5. Loturak
+## 4. Loturak
 - [STL fitxategia](./lizar_artikulatua.stl)  
 
 ---
